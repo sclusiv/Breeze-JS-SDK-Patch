@@ -1,6 +1,6 @@
 {
-  "name": "breezeconnect",
-  "version": "1.0.29",
+  "name": "breezeconnect-patch",
+  "version": "1.0.29.1",
   "main": "breezeConnect.js",
   "description": "The official JS client for communicating with BreezeConnect API and Websocket.",
   "dependencies": {
@@ -19,6 +19,7 @@
   "keywords": [
     "breeze",
     "breezeconnect",
-    "connect"
+    "connect",
+    "patch"
   ]
 }
