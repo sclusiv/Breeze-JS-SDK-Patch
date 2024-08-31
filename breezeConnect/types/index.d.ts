@@ -1,2 +1,3 @@
-/// <reference path="./breezeConnect.d.ts" />
-/// <reference path="./config.d.ts" />
+// types/index.d.ts
+export * from "./breezeConnect";
+export * from "./config";
