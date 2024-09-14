@@ -1622,7 +1622,7 @@ var BreezeConnect = function(params) {
             else if(validity !== "" && validity !== null && !Boolean(typeList.VALIDITY_TYPES.includes(validity.toLowerCase()))) {
                 return self.validationErrorResponse(responseMessage.VALIDITY_TYPE_ERROR);
             }
-            else if(orderType !== "" && orderType !== null && !Boolean(typeList.ORDER_TYPES.includes(order_type.toLowerCase()))) {
+            else if(orderType !== "" && orderType !== null && !Boolean(typeList.ORDER_TYPES.includes(orderType.toLowerCase()))) {
                 return self.validationErrorResponse(responseMessage.ORDER_TYPE_ERROR);
             }
 
