@@ -1,6 +1,6 @@
 {
   "name": "breezeconnect-patch",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "breezeConnect.js",
   "types": "types/index.d.ts",
   "description": "The *UNOFFICIAL* BreezeConnect API patch. This is result of no-response from Offical Support Team",
