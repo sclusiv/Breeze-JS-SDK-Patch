@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "main": "breezeConnect.js",
   "types": "types/index.d.ts",
-  "description": "The official JS client for communicating with BreezeConnect API and Websocket.",
+  "description": "The *UNOFFICIAL* BreezeConnect API patch. This is result of no-response from Offical Support Team",
   "dependencies": {
     "axios": "^0.27.2",
     "crypto-js": "^4.1.1",
